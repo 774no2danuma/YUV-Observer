@@ -10,7 +10,7 @@
     <br />
     Latest version: v0.1.1.0
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href=""><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -38,7 +38,7 @@ fugafuga(1024x768_444).yuv
 
 Please change the file name of the YUV format you wish to view to the above format. If you do not use the above format, you can still view the file by specifying the height, width and color space of the YUV format file when viewing.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation]()_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
