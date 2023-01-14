@@ -16,6 +16,12 @@
   </p>
 </div>
 
+本ソフトのダウンロードはこちらの[リンク](https://github.com/7ra4no/YUV-Observer/releases)から
+
+Assetsのプルダウンより`YUV-Observer.exe`をダウンロードしてください
+
+注意事項をよく読みご利用ください
+
 ## 機能
 
 * YUV444，YUV422，YUV420，YUV400の表示，それらのPNGファイル書き出し
