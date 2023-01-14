@@ -6,60 +6,53 @@
   </a>
   <h3 align="center">YUV-Observer.exe</h3>
   <p align="center">
-    A simple YUV file viewer for Windows 10 System.
+    A simple YUV file viewer for Windows 10 System.<br />
+    Windows 10で動作する簡易的YUVファイルビュアーソフト
     <br />
     Latest version: v0.1.1.0
     <br />
-    <a href=""><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
 </div>
 
-## Features
+## 機能
 
-* Display YUV444, YUV422, YUV420, YUV400, save as PNG format.
-* Display of YUV and RGB layers.
-* Zoom in and out of YUV images. (Note: memory limitation).
+* YUV444，YUV422，YUV420，YUV400の表示，それらのPNGファイル書き出し
+* 閲覧するYUV形式画像のYUVレイヤーとRGBレイヤーの分離表示
+* 閲覧するYUV画像の拡大縮小ビュー（試験的機能のためメモリ不具合あり）
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Usage
+## 読み込むYUVファイルの名前
+
+* 基本的に任意のファイル名でも開いたあとに縦横サイズ，YUV形式の種類を正しく入力することで表示が可能
+* また，以下の形式のファイル名であるならばそのまま開くことが可能
 
 ```sh
 hogehoge(1024x768,YUV444).yuv
 ```
 
-or
+もしくは
 
 ```sh
 fugafuga(1024x768_444).yuv
 ```
 
-Please change the file name of the YUV format you wish to view to the above format. If you do not use the above format, you can still view the file by specifying the height, width and color space of the YUV format file when viewing.
 
-_For more examples, please refer to the [Documentation]()_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## License
+## ライセンス
 
 Distributed under the 3-clause BSD License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Library
-
-The following libraries are used in this program.
+## 使用ライブラリ
 
 * [NumPy](https://numpy.org/)
 * [OpenCV](https://opencv.org/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-## Acknowledgments
+## 謝辞
 
-The following is a list of references that were used to create this program. I would like to take this opportunity to express my sincere gratitude.
+このプログラムの制作にあたり，以下のサイト様より知見をいただきました．ここで改めて感謝いたします．問題などがございましたら対処いたしますのでご連絡ください．
 
 * [その他の画像変換 — opencv 2.2 documentation](http://opencv.jp/opencv-2svn/c/miscellaneous_image_transformations.html)
 * [Recommended 8-Bit YUV Formats for Video Rendering - Win32 apps](https://docs.microsoft.com/en-us/windows/win32/medfound/recommended-8-bit-yuv-formats-for-video-rendering)
@@ -69,5 +62,3 @@ The following is a list of references that were used to create this program. I w
 * [YUVをちゃんと理解してからRGBにコンバートしましょうね](https://www.klab.com/jp/blog/tech/2016/1054828175.html)
 * [YUVフォーマット及び YUVとRGBの変換](https://hk.interaction-lab.org/firewire/yuv.html#packed_format)
 * [Processing YUV I420 from framebuffer?](https://stackoverflow.com/questions/69518644/processing-yuv-i420-from-framebuffer)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
