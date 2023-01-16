@@ -18,7 +18,7 @@
 
 本ソフトのダウンロードはこちらの[リンク](https://github.com/7ra4no/YUV-Observer/releases)から
 
-Assetsのプルダウンより`YUV-Observer.exe`をダウンロードしてください
+Assetsのプルダウンより`YUV-Observer.`をダウンロードしてください
 
 注意事項をよく読みご利用ください
 
