@@ -1,9 +1,7 @@
 <div id="top"></div>
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="icon.ico" alt="Logo" width="100" height="100">
-  </a>
+  <img src="sample/icon.ico" alt="Logo" width="100" height="100">
   <h3 align="center">YUV-Observer.exe</h3>
   <p align="center">
     A simple YUV file viewer for Windows 10 System.<br />
@@ -44,6 +42,26 @@ hogehoge(1024x768,YUV444).yuv
 fugafuga(1024x768_444).yuv
 ```
 
+## 動作例
+### YUV444(4:4:4)
+<div align="center">
+<img src="sample/yuv444.png" alt="YUV444"></br>
+</div>
+
+### YUV422(4:2:2)
+<div align="center">
+<img src="sample/yuv422.png" alt="YUV422"></br>
+</div>
+
+### YUV420(4:2:0)
+<div align="center">
+<img src="sample/yuv420.png" alt="YUV420"></br>
+</div>
+
+### RGB
+<div align="center">
+<img src="sample/rgb.png" alt="RGB"></br>
+</div>
 
 ## ライセンス
 
