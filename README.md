@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 <div align="center">
   <img src="sample/icon.ico" alt="Logo" width="100" height="100">
   <h3 align="center">YUV-Observer.exe</h3>
