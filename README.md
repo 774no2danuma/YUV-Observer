@@ -44,7 +44,8 @@ fugafuga(1024x768_444).yuv
 
 ### YUV-Observer.exe 動作デモ
 <div align="center">
-<img src="sample/yuvgif.gif" alt="YUV-Observer Demo" width="400" height=""></img><br></div>
+https://user-images.githubusercontent.com/99711326/218269496-930afa2a-fb97-4de5-bd5b-5a8d5c816583.mp4
+<br></div>
 
 ### YUV444(4:4:4)
 <div align="center">
